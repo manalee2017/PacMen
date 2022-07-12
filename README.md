@@ -2,13 +2,13 @@
 # PacMan
 
 ## Description
-> There is an image of 'PacMan' moving left and right within the window.<br>
-> While moving, the 'PacMan' continuously opens and closes the mouth.
+> There are two buttons on the page, "Add PacMan" and "Start Game".<br>
+> Everytime we press the "Add PaceMan", a new pacman will be created. <br>
+> Everytime we press "Start Game", all pacmen previously created will move from left to right within the window.<br>
 
-## Usage
-> A practice to help understand how variables work in their respective scopes. (*var*, *const*, *let*, *...*)<br>
-> A practice to help understand the structure of different data types. (*number*, *string*, *boolean*, *object*, *...*)<br>
-> A practice to help understand the structure of the function and how to call the function with arguments.
+## Roadmap for Improvement
+> Make the pacmen open and close the mouth while it's moving.<br>
+> Chage the pacman picture with the one with opposite direction whenever it hits the wall.<br>
 
 ## Support
 <manalee.yl@gmail.com>
